@@ -1,0 +1,60 @@
+#!/bin/bash
+
+ISYAY=/sbin/yay
+if [ -f "$ISYAY" ]; then 
+    yay -Suy
+else 
+    exit 
+fi
+
+read -n1 -rep 'Устновить пакеты? (y,n)' INST
+if [[ $INST == "Y" || $INST == "y" ]]; then
+    yay -S --noconfirm hyprland kitty waybar \
+    swaybg swaylock-effects wofi wlogout mako thunar \
+    ttf-jetbrains-mono-nerd noto-fonts-emoji \
+    polkit-gnome python-requests starship \
+    swappy grim slurp pamixer brightnessctl gvfs \
+    bluez bluez-utils lxappearance xfce4-settings \
+    dracula-gtk-theme dracula-icons-git xdg-desktop-portal-hyprland
+
+    # Start the bluetooth service
+    echo -e "Starting the Bluetooth Service...\n"
+    sudo systemctl enable --now bluetooth.service
+    sleep 2
+    
+    # Clean out other portals
+    yay -R --noconfirm xdg-desktop-portal-gnome xdg-desktop-portal-gtk
+fi
+
+read -n1 -rep 'Установить конфиги? (y,n)' CFG
+if [[ $CFG == "Y" || $CFG == "y" ]]; then
+    echo -e "Copying config files...\n"
+    cp -R hypr ~/.config/
+    cp -R kitty ~/.config/
+    cp -R mako ~/.config/
+    cp -R waybar ~/.config/
+    cp -R swaylock ~/.config/
+    cp -R wofi ~/.config/
+    
+    chmod +x ~/.config/hypr/xdg-portal-hyprland
+    chmod +x ~/.config/waybar/scripts/waybar-wttr.py
+fi
+
+### Install teh starship shell
+read -n1 -rep 'starship? (y,n)' STAR
+if [[ $STAR == "Y" || $STAR == "y" ]]; then
+    # install the starship shell
+    echo -e "Updating .bashrc...\n"
+    echo -e '\neval "$(starship init bash)"' >> ~/.bashrc
+    echo -e "copying starship config file to ~/.confg ...\n"
+    cp starship.toml ~/.config/
+fi
+
+### Script is done
+echo -e "Готово ебана\n"
+read -n1 -rep 'Стартуем? (y,n)' HYP
+if [[ $HYP == "Y" || $HYP == "y" ]]; then
+    exec Hyprland
+else
+    exit
+fi
