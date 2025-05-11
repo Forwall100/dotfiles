@@ -1,0 +1,26 @@
+[
+  {
+    "sessionId": "5d62d5ca-b7c8-48a9-864b-e5ad08cbacc4",
+    "title": "Как его исправить?",
+    "dateCreated": "1746364370610",
+    "workspaceDirectory": "file:///home/user/Documents/code/resumatter/frontend"
+  },
+  {
+    "sessionId": "b2772a27-e4ad-46b4-b502-5a35bac1c462",
+    "title": "API Security Tips",
+    "dateCreated": "1746365708649",
+    "workspaceDirectory": "file:///home/user/Documents/code/resumatter"
+  },
+  {
+    "sessionId": "962f5ac0-af1f-4a7f-86a3-bbf0168457f3",
+    "title": "Env Variables Method",
+    "dateCreated": "1746366913625",
+    "workspaceDirectory": "file:///home/user/Documents/code/resumatter"
+  },
+  {
+    "sessionId": "8e6f22c4-362a-4ac6-8817-8280ce121bab",
+    "title": "Supabase User Python",
+    "dateCreated": "1746429351811",
+    "workspaceDirectory": "file:///home/user/Documents/code/resumatter"
+  }
+]

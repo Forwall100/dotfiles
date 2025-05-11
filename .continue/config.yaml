@@ -1,0 +1,26 @@
+name: Local Assistant
+version: 1.0.0
+schema: v1
+models:
+  - name: GLM 4 32B
+    provider: openrouter
+    model: thudm/glm-4-32b
+    apiBase: "https://openrouter.ai/api/v1"
+    apiKey: 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
+    roles:
+      - chat
+      - edit
+      - apply
+  - name: Gemini 2.5 Flash
+    provider: openrouter
+    model: google/gemini-2.5-flash-preview
+    apiBase: "https://openrouter.ai/api/v1"
+    apiKey: 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
+context:
+  - provider: code
+  - provider: docs
+  - provider: diff
+  - provider: terminal
+  - provider: problems
+  - provider: folder
+  - provider: codebase
