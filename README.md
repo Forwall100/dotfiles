@@ -17,3 +17,6 @@ ext4
 
 # packages
 git neovim  
+
+# HyDE
+https://github.com/HyDE-Project/HyDE
