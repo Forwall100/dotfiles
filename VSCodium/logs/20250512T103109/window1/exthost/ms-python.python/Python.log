@@ -1,0 +1,51 @@
+2025-05-12 10:31:10.339 [info] Telemetry level is off
+2025-05-12 10:31:10.339 [info] Experiments are disabled, only manually opted experiments are active.
+2025-05-12 10:31:10.339 [warning] Dir "/home/user/Documents/code/resumix/.pixi/envs" is not watchable (directory does not exist)
+2025-05-12 10:31:10.347 [info] > pyenv which python
+2025-05-12 10:31:10.347 [info] cwd: .
+2025-05-12 10:31:10.368 [info] > python -c "import sys;print(sys.executable)"
+2025-05-12 10:31:10.384 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-12 10:31:10.402 [info] Only Pylance is supported in untrusted workspaces, setting language server to None.
+2025-05-12 10:31:10.402 [info] Starting Jedi language server for resumix.
+2025-05-12 10:31:12.775 [info] Telemetry level is off
+2025-05-12 10:31:12.775 [info] Experiments are disabled, only manually opted experiments are active.
+2025-05-12 10:31:12.775 [warning] Dir "/home/user/Documents/code/resumix/.pixi/envs" is not watchable (directory does not exist)
+2025-05-12 10:31:12.804 [info] Starting Environment refresh
+2025-05-12 10:31:12.804 [info] Searching for interpreters in posix paths locator
+2025-05-12 10:31:12.805 [info] Searching for pyenv environments
+2025-05-12 10:31:12.805 [info] Searching for conda environments
+2025-05-12 10:31:12.805 [info] Searching for global virtual environments
+2025-05-12 10:31:12.805 [info] Searching for custom virtual environments
+2025-05-12 10:31:12.807 [info] pyenv is not installed
+2025-05-12 10:31:12.807 [info] Finished searching for pyenv environments: 3 milliseconds
+2025-05-12 10:31:12.807 [info] Finished searching for custom virtual envs: 3 milliseconds
+2025-05-12 10:31:12.811 [info] > conda info --json
+2025-05-12 10:31:12.814 [info] > hatch env show --json
+2025-05-12 10:31:12.814 [info] cwd: .
+2025-05-12 10:31:12.818 [info] > pyenv which python
+2025-05-12 10:31:12.818 [info] cwd: .
+2025-05-12 10:31:12.818 [info] Finished searching for global virtual envs: 14 milliseconds
+2025-05-12 10:31:13.217 [info] Found: /bin/python --> /bin/python3.13
+2025-05-12 10:31:13.223 [info] Found: /bin/python3 --> /bin/python3.13
+2025-05-12 10:31:13.229 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-05-12 10:31:13.308 [info] Found: /sbin/python --> /sbin/python3.13
+2025-05-12 10:31:13.320 [info] > ./.venv/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-12 10:31:13.324 [info] Found: /sbin/python3 --> /sbin/python3.13
+2025-05-12 10:31:13.340 [info] Found: /sbin/python3.13 --> /sbin/python3.13
+2025-05-12 10:31:13.360 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-05-12 10:31:13.362 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-05-12 10:31:13.362 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-05-12 10:31:13.371 [info] Found: /usr/sbin/python --> /usr/sbin/python3.13
+2025-05-12 10:31:13.371 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.13
+2025-05-12 10:31:13.371 [info] Found: /usr/sbin/python3.13 --> /usr/sbin/python3.13
+2025-05-12 10:31:13.377 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-12 10:31:13.382 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-12 10:31:13.385 [info] Finished searching for interpreters in posix paths locator: 582 milliseconds
+2025-05-12 10:31:13.387 [info] Environments refresh paths discovered (event): 584 milliseconds
+2025-05-12 10:31:13.387 [info] Environments refresh paths discovered: 584 milliseconds
+2025-05-12 10:31:13.399 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-12 10:31:13.403 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-12 10:31:13.420 [info] Environments refresh finished (event): 617 milliseconds
+2025-05-12 10:31:13.423 [info] Environment refresh took 619 milliseconds
+2025-05-12 10:31:13.426 [info] Python interpreter path: ./.venv/bin/python
+2025-05-12 10:31:14.015 [info] Starting Jedi language server for resumix.

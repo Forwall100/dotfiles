@@ -1,0 +1,1 @@
+2025-05-12 10:31:13.093 [error] Failed to set sticky bit on /tmp/user-codium-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/user-codium-zsh'

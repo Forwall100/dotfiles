@@ -1,0 +1,82 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "05150d70a2476bdd5e39e9bd0e7d3a45b8f2f5e26475899a8489d6645b801ae0",
+    "telemetry.devDeviceId": "4d3be985-c4af-49a2-81b3-1c6deac9917d",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/user/Documents/code/resumix"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 36,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/user/Documents/code/resumix": "__default__profile__",
+            "file:///home/user/Documents/code/queryquest": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/user/Documents/code/resumix",
+            "backupPath": "/home/user/.config/VSCodium/Backups/2e787e0499f706dd9adc2d6196a2b8b4",
+            "uiState": {
+                "mode": 1,
+                "x": 21,
+                "y": 60,
+                "width": 1878,
+                "height": 999
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#080e09",
+    "windowSplash": {
+        "zoomLevel": 1,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(193, 194, 193, 0.6)",
+            "background": "#080e09",
+            "editorBackground": "#080e09",
+            "titleBarBackground": "#080e09",
+            "titleBarBorder": "#080e09",
+            "activityBarBackground": "#080e09",
+            "activityBarBorder": "#080e09",
+            "sideBarBackground": "#080e09",
+            "sideBarBorder": "#080e09",
+            "statusBarBackground": "#080e09",
+            "statusBarBorder": "#080e09",
+            "statusBarNoFolderBackground": "#0a110b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 0,
+            "sideBarWidth": 232,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 232,
+            "auxiliaryBarWidth": 347,
+            "workspaces": {
+                "37a78256e8d94ef7ebafbd9684081717": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e8a718d32582c857157827e31fee2b92": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

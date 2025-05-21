@@ -1,0 +1,1 @@
+from endpoints import generate_er_diagram

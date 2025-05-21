@@ -1,0 +1,94 @@
+2025-05-14 19:05:33.631 [info] Name: Black Formatter
+2025-05-14 19:05:33.631 [info] Module: black
+2025-05-14 19:05:33.631 [info] Default formatter is set to null for workspace /home/user/Documents/code/resumix
+2025-05-14 19:05:33.631 [warning] Black Formatter is NOT set as the default formatter for workspace /home/user/Documents/code/resumix
+2025-05-14 19:05:33.631 [warning] To set Black Formatter as the default formatter, add the following to your settings.json file:
+2025-05-14 19:05:33.631 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
+2025-05-14 19:05:33.631 [info] Python extension loading
+2025-05-14 19:05:33.631 [info] Waiting for interpreter from python extension.
+2025-05-14 19:05:33.631 [info] No interpreter found from setting black-formatter.interpreter
+2025-05-14 19:05:33.631 [info] Getting interpreter from ms-python.python extension for workspace /home/user/Documents/code/resumix
+2025-05-14 19:05:33.631 [info] Python extension loaded
+2025-05-14 19:05:33.631 [info] Interpreter from ms-python.python extension for /home/user/Documents/code/resumix: /home/user/Documents/code/resumix/.venv/bin/python
+2025-05-14 19:05:33.631 [info] Workspace settings for /home/user/Documents/code/resumix (client side): {
+    "cwd": "/home/user/Documents/code/resumix",
+    "workspace": "file:///home/user/Documents/code/resumix",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/user/Documents/code/resumix/.venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-05-14 19:05:33.631 [info] No interpreter found from setting black-formatter.interpreter
+2025-05-14 19:05:33.631 [info] Getting interpreter from ms-python.python extension for workspace /home/user/Documents/code/resumix
+2025-05-14 19:05:33.631 [info] Interpreter from ms-python.python extension for /home/user/Documents/code/resumix: /home/user/Documents/code/resumix/.venv/bin/python
+2025-05-14 19:05:33.631 [info] Workspace settings for /home/user/Documents/code/resumix (client side): {
+    "cwd": "/home/user/Documents/code/resumix",
+    "workspace": "file:///home/user/Documents/code/resumix",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/user/Documents/code/resumix/.venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-05-14 19:05:33.631 [info] Global settings (client side): {
+    "cwd": "/home/user",
+    "workspace": "/home/user",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-05-14 19:05:33.631 [info] Server run command: /home/user/Documents/code/resumix/.venv/bin/python /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/bundled/tool/lsp_server.py
+2025-05-14 19:05:33.631 [info] Server: Start requested.
+2025-05-14 19:05:33.932 [info] CWD Server: /home/user/Documents/code/resumix
+2025-05-14 19:05:33.953 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/user/Documents/code/resumix",
+        "workspace": "file:///home/user/Documents/code/resumix",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/user/Documents/code/resumix/.venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-05-14 19:05:33.954 [info] Global settings received on server:
+{
+    "cwd": "/home/user",
+    "workspace": "/home/user",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-05-14 19:05:33.965 [info] sys.path used to run Server:
+   /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/bundled/libs
+   /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/user/Documents/code/resumix/.venv/lib/python3.13/site-packages
+2025-05-14 19:05:33.973 [info] /home/user/Documents/code/resumix/.venv/bin/python -m black --version
+2025-05-14 19:05:34.016 [info] CWD formatter: /home/user/Documents/code/resumix
+2025-05-14 19:05:34.028 [info] Version info for formatter running for /home/user/Documents/code/resumix:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.13.3
+
+2025-05-14 19:05:34.037 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+

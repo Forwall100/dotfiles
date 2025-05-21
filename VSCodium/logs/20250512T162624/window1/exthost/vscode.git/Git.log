@@ -1,0 +1,43 @@
+2025-05-12 16:26:26.188 [info] [main] Log level: Info
+2025-05-12 16:26:26.188 [info] [main] Validating found git in: "git"
+2025-05-12 16:26:26.188 [info] [main] Using git "2.49.0" from "git"
+2025-05-12 16:26:26.188 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-12 16:26:26.188 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-12 16:26:26.188 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 16:26:26.188 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-12 16:26:35.139 [info] [main] Log level: Info
+2025-05-12 16:26:35.139 [info] [main] Validating found git in: "git"
+2025-05-12 16:26:35.139 [info] [main] Using git "2.49.0" from "git"
+2025-05-12 16:26:35.139 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-12 16:26:35.139 [info] > git rev-parse --show-toplevel [17ms]
+2025-05-12 16:26:35.139 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2025-05-12 16:26:35.144 [info] [Model][openRepository] Opened repository (path): /home/user/Documents/code/resumix
+2025-05-12 16:26:35.144 [info] [Model][openRepository] Opened repository (real path): /home/user/Documents/code/resumix
+2025-05-12 16:26:35.461 [info] > git rev-parse --show-toplevel [37ms]
+2025-05-12 16:26:35.461 [info] > git config --get commit.template [40ms]
+2025-05-12 16:26:35.481 [info] > git rev-parse --show-toplevel [6ms]
+2025-05-12 16:26:35.489 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-05-12 16:26:35.492 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-12 16:26:35.519 [info] > git rev-parse --show-toplevel [21ms]
+2025-05-12 16:26:35.519 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-12 16:26:35.528 [info] > git show --textconv :frontend/src/routes/+page.svelte [5ms]
+2025-05-12 16:26:35.528 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [9ms]
+2025-05-12 16:26:35.533 [info] > git ls-files --stage -- frontend/src/routes/+page.svelte [6ms]
+2025-05-12 16:26:35.542 [info] > git status -z -uall [31ms]
+2025-05-12 16:26:35.560 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-05-12 16:26:35.563 [info] > git cat-file -s 5580857ebb0e1361a47a7ecbcabb2dd6d8a3ba95 [26ms]
+2025-05-12 16:26:35.564 [info] > git config --get --local branch.main.vscode-merge-base [1ms]
+2025-05-12 16:26:35.568 [info] > git config --get commit.template [9ms]
+2025-05-12 16:26:35.594 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [26ms]
+2025-05-12 16:26:35.599 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2025-05-12 16:26:35.602 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2025-05-12 16:26:35.604 [info] > git diff --name-status -z --diff-filter=ADMR e56952a5518af59ec5eb02d490a81f188f3b6375...refs/remotes/origin/main [2ms]
+2025-05-12 16:26:35.613 [info] > git status -z -uall [4ms]
+2025-05-12 16:26:35.618 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-05-12 16:26:36.015 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-12 16:26:36.016 [info] > git blame --root --incremental e56952a5518af59ec5eb02d490a81f188f3b6375 -- frontend/src/routes/+page.svelte [398ms]
+2025-05-12 16:26:36.531 [info] > git check-ignore -v -z --stdin [0ms]
+2025-05-12 16:26:36.928 [info] > git show --textconv :backend/main.py [8ms]
+2025-05-12 16:26:36.929 [info] > git ls-files --stage -- backend/main.py [1ms]
+2025-05-12 16:26:36.936 [info] > git cat-file -s 61a9ab3d1bdcfa4fff545a3ac430085e068aad97 [1ms]
+2025-05-12 16:26:37.336 [info] > git blame --root --incremental e56952a5518af59ec5eb02d490a81f188f3b6375 -- backend/main.py [7ms]

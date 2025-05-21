@@ -1,0 +1,42 @@
+2025-05-14 15:40:00.563 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1"
+
+2025-05-14 15:42:50.868 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "26"
+
+2025-05-14 16:07:53.884 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "130"
+
+2025-05-14 16:10:59.318 [info] ERROR:pygls.protocol.json_rpc:Failed to handle request 259 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='file:///home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py'), position=0:13, work_done_token=None)
+Traceback (most recent call last):
+  File "/home/user/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 266, in _handle_request
+    self._execute_request(msg_id, handler, params)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 188, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ~~~~~~~^^^^^^^^
+  File "/home/user/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 408, in hover
+    hover_text = jedi_utils.hover_text(
+        jedi_script.help(*jedi_lines),
+        markup_kind,
+        server.initialization_options,
+    )
+  File "/home/user/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 664, in hover_text
+    if _hover_ignore(name, initialization_options):
+       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 645, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+                                       ~~~~~~~^
+        init.hover.disable, name.type + "_"
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+
+2025-05-14 16:10:59.319 [info] [Error - 4:10:59 PM] Request textDocument/hover failed.
+2025-05-14 16:10:59.319 [info]   Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32603 
+[object Object]
+2025-05-14 16:10:59.319 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "259"
+
+2025-05-14 16:13:28.779 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "325"
+
+2025-05-14 16:13:29.082 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "326"
+

@@ -1,0 +1,11 @@
+{
+  "files_in_context": [],
+  "model_usage": [
+    {
+      "ts": 1747415182445,
+      "model_id": "google/gemini-2.5-flash-preview",
+      "model_provider_id": "openrouter",
+      "mode": "plan"
+    }
+  ]
+}

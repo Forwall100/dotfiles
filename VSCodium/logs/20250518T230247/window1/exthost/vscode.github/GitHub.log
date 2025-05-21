@@ -1,0 +1,3 @@
+2025-05-18 23:02:49.762 [info] Log level: Info
+2025-05-18 23:02:50.034 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-05-18 23:04:52.117 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for Forwall100/resumatter: Error: No GitHub authentication session available.

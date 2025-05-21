@@ -1,0 +1,11 @@
+2025-05-12 16:26:25.153 [info] Started local extension host with pid 13135.
+2025-05-12 16:26:25.185 [info] ComputeTargetPlatform: linux-x64
+2025-05-12 16:26:25.282 [info] [Continue.continue]: Command `continue.focusContinueInput` already registered by Continue - Codestral, Claude, and more (Continue.continue)
+2025-05-12 16:26:26.627 [warning] Authentication provider continue was not declared in the Extension Manifest.
+2025-05-12 16:26:27.792 [info] [perf] Render performance baseline is 12ms
+2025-05-12 16:26:34.340 [info] Started local extension host with pid 13223.
+2025-05-12 16:26:34.371 [info] ComputeTargetPlatform: linux-x64
+2025-05-12 16:26:34.521 [info] [Continue.continue]: Command `continue.focusContinueInput` already registered by Continue - Codestral, Claude, and more (Continue.continue)
+2025-05-12 16:26:35.997 [warning] Authentication provider continue was not declared in the Extension Manifest.
+2025-05-12 16:26:36.922 [info] [perf] Render performance baseline is 14ms
+2025-05-12 16:30:36.973 [warning] [backup tracker] suspended, ignoring unregister event git:/home/user/Documents/code/resumix/backend/main.py.git?%7B%22path%22%3A%22%2Fhome%2Fuser%2FDocuments%2Fcode%2Fresumix%2Fbackend%2Fmain.py%22%2C%22ref%22%3A%22%22%7D 

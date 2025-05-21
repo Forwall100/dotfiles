@@ -1,0 +1,23 @@
+2025-05-18 23:02:47.935 [info] Started local extension host with pid 1419207.
+2025-05-18 23:02:48.130 [info] ComputeTargetPlatform: linux-x64
+2025-05-18 23:02:48.144 [info] [Continue.continue]: Command `continue.focusContinueInput` already registered by Continue - Codestral, Claude, and more (Continue.continue)
+2025-05-18 23:02:50.540 [warning] Authentication provider continue was not declared in the Extension Manifest.
+2025-05-18 23:02:50.889 [info] [perf] Render performance baseline is 12ms
+2025-05-18 23:02:53.147 [info] Auto updating outdated extensions. continue.continue, saoudrizwan.claude-dev
+2025-05-18 23:05:04.850 [error] [Extension Host] Failed to fetch MCP marketplace: AggregateError: 
+	at Sj.from (/home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.15.5-universal/dist/extension.js:1063:9856)
+	at g1.<anonymous> (/home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.15.5-universal/dist/extension.js:1066:9902)
+	at g1.emit (node:events:524:28)
+	at oat.<computed> (/home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.15.5-universal/dist/extension.js:6:968)
+	at ClientRequest.emit (node:events:536:35)
+	at emitErrorEvent (node:_http_client:101:11)
+	at TLSSocket.socketErrorListener (node:_http_client:504:5)
+	at TLSSocket.emit (node:events:524:28)
+	at emitErrorNT (node:internal/streams/destroy:169:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+	at Rj.request (/home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.15.5-universal/dist/extension.js:1068:2063)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async Gre.fetchMcpMarketplaceFromApi (/home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.15.5-universal/dist/extension.js:2966:15269)
+	at async Gre.silentlyRefreshMcpMarketplace (/home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.15.5-universal/dist/extension.js:2966:15919)
+2025-05-19 00:19:26.517 [warning] [backup tracker] suspended, ignoring unregister event git:/home/user/Documents/code/resumix/frontend/static/robots.txt.git?%7B%22path%22%3A%22%2Fhome%2Fuser%2FDocuments%2Fcode%2Fresumix%2Ffrontend%2Fstatic%2Frobots.txt%22%2C%22ref%22%3A%22%22%7D 

@@ -1,0 +1,7 @@
+2025-05-18 23:02:49.711 [info] Telemetry level is off
+2025-05-18 23:02:49.711 [info] Experiments are disabled, only manually opted experiments are active.
+2025-05-18 23:02:49.711 [warning] Dir "/home/user/Documents/code/resumix/.pixi/envs" is not watchable (directory does not exist)
+2025-05-18 23:02:49.711 [info] Python interpreter path: ./.venv/bin/python
+2025-05-18 23:02:49.711 [info] > pyenv which python
+2025-05-18 23:02:49.711 [info] cwd: .
+2025-05-18 23:02:50.577 [info] Starting Jedi language server for resumix.

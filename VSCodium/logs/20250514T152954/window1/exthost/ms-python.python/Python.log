@@ -1,0 +1,45 @@
+2025-05-14 15:39:59.594 [info] Telemetry level is off
+2025-05-14 15:39:59.594 [info] Experiments are disabled, only manually opted experiments are active.
+2025-05-14 15:39:59.594 [warning] Dir "/home/user/Documents/code/queryquest/.pixi/envs" is not watchable (directory does not exist)
+2025-05-14 15:39:59.594 [info] Starting Environment refresh
+2025-05-14 15:39:59.594 [info] Starting Environment refresh
+2025-05-14 15:39:59.594 [info] > hatch env show --json
+2025-05-14 15:39:59.594 [info] cwd: .
+2025-05-14 15:39:59.605 [info] > pyenv which python
+2025-05-14 15:39:59.605 [info] cwd: .
+2025-05-14 15:39:59.653 [info] Environments refresh finished (event): 135 milliseconds
+2025-05-14 15:39:59.653 [info] Environments refresh paths discovered: 135 milliseconds
+2025-05-14 15:39:59.653 [info] Environments refresh finished (event): 135 milliseconds
+2025-05-14 15:39:59.653 [info] Environments refresh paths discovered: 135 milliseconds
+2025-05-14 15:39:59.659 [info] Environment refresh took 142 milliseconds
+2025-05-14 15:39:59.659 [info] Environment refresh took 141 milliseconds
+2025-05-14 15:39:59.695 [info] > pyenv which python
+2025-05-14 15:39:59.695 [info] cwd: .
+2025-05-14 15:39:59.705 [info] Python interpreter path: /bin/python
+2025-05-14 15:40:00.119 [info] Starting Jedi language server for queryquest.
+2025-05-14 16:08:00.639 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/endpoints/create_er_diagram.py
+2025-05-14 16:08:03.493 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/endpoints/create_er_diagram.py
+2025-05-14 16:08:08.472 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/endpoints/create_er_diagram.py
+2025-05-14 16:08:12.964 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/endpoints/create_er_diagram.py
+2025-05-14 16:08:14.404 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/endpoints/create_er_diagram.py
+2025-05-14 16:09:18.985 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/endpoints/create_er_diagram.py
+2025-05-14 16:09:29.098 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:09:31.346 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:09:51.561 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:09:53.180 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:10:06.265 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:10:08.407 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:10:19.743 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:10:20.821 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:10:22.727 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:10:24.816 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:10:42.058 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:11:24.069 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:11:49.965 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:12:43.526 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:13:09.926 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:13:15.299 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:13:25.111 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:13:31.585 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:13:34.109 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py
+2025-05-14 16:14:07.829 [info] Discover tests for workspace name: queryquest - uri: /home/user/Documents/code/queryquest/backend/sqlite_query_service/test.py

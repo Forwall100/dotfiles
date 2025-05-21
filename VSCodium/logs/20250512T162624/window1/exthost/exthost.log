@@ -1,0 +1,77 @@
+2025-05-12 16:26:25.549 [info] Extension host with pid 13135 started
+2025-05-12 16:26:25.560 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-12 16:26:25.572 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-05-12 16:26:25.579 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-05-12 16:26:25.662 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-12 16:26:25.668 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-12 16:26:25.695 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-12 16:26:25.752 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-12 16:26:25.754 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2025-05-12 16:26:25.773 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-12 16:26:25.795 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-12 16:26:25.849 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-05-12 16:26:25.877 [info] Eager extensions activated
+2025-05-12 16:26:25.890 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-12 16:26:25.891 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-12 16:26:25.899 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-12 16:26:25.917 [info] ExtensionService#_doActivateExtension Continue.continue, startup: false, activationEvent: 'onStartupFinished'
+2025-05-12 16:26:34.085 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-12 16:26:34.091 [info] Extension host with pid 13135 exiting with code 0
+2025-05-12 16:26:34.636 [info] Extension host with pid 13223 started
+2025-05-12 16:26:34.636 [info] Skipping acquiring lock for /home/user/.config/VSCodium/User/workspaceStorage/37a78256e8d94ef7ebafbd9684081717.
+2025-05-12 16:26:34.651 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-12 16:26:34.661 [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:svelte'
+2025-05-12 16:26:34.785 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-12 16:26:34.786 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2025-05-12 16:26:34.795 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.venv'
+2025-05-12 16:26:34.896 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onCommand:_typescript.configurePlugin'
+2025-05-12 16:26:34.967 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-12 16:26:34.995 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-12 16:26:35.013 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-12 16:26:35.023 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-12 16:26:35.116 [info] Eager extensions activated
+2025-05-12 16:26:35.145 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-12 16:26:35.146 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-12 16:26:35.156 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-12 16:26:35.178 [info] ExtensionService#_doActivateExtension Continue.continue, startup: false, activationEvent: 'onStartupFinished'
+2025-05-12 16:26:35.573 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-12 16:26:36.739 [info] ExtensionService#_doActivateExtension ms-python.black-formatter, startup: false, activationEvent: 'onLanguage:python'
+2025-05-12 16:26:36.786 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-05-12 16:30:36.964 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-12 16:30:36.976 [error] Error: Channel has been closed
+	at s (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3260)
+	at Object.appendLine (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3399)
+	at w.logTrace (/home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:137022)
+	at Object.log (/home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:130515)
+	at /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:87217
+	at /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:87412
+	at ie (/home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:87777)
+	at /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:82561
+	at Immediate.<anonymous> (/home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:82581)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-05-12 16:30:36.978 [error] Error: Channel has been closed
+	at s (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3260)
+	at Object.appendLine (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3399)
+	at R.logOutputMessage (/opt/vscodium-bin/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290740)
+	at R.info (/opt/vscodium-bin/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290473)
+	at ChildProcess.<anonymous> (/opt/vscodium-bin/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514746)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-12 16:30:36.979 [error] Error: Channel has been closed
+	at s (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3260)
+	at Object.appendLine (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3399)
+	at P.logOutputMessage (/home/user/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2020886)
+	at P.error (/home/user/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2020777)
+	at ChildProcess.<anonymous> (/home/user/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2239102)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-12 16:30:38.970 [error] Error: Channel has been closed
+	at s (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3260)
+	at Object.appendLine (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3399)
+	at w.logOutputMessage (/home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:136449)
+	at w.error (/home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:136340)
+	at /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:144715
+	at async t.deactivate (/home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/dist/extension.js:1:68581)
+	at async Promise.all (index 13)
+	at async PQ._deactivateAll (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:12036)
+2025-05-12 16:30:38.970 [info] Extension host with pid 13223 exiting with code 0

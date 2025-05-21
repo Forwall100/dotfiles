@@ -1,0 +1,578 @@
+{
+  "files_in_context": [
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1747415251456,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "frontend/src/lib/supabaseClient.js",
+      "record_state": "active",
+      "record_source": "read_tool",
+      "cline_read_date": 1747415254234,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415251456,
+      "cline_edit_date": null,
+      "user_edit_date": 1747415282890
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747415287068,
+      "cline_edit_date": 1747415287068,
+      "user_edit_date": 1747415282890
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747415295364,
+      "cline_edit_date": 1747415295364,
+      "user_edit_date": 1747415282890
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "read_tool",
+      "cline_read_date": 1747415571856,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415571856,
+      "cline_edit_date": null,
+      "user_edit_date": 1747415577184
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747415578831,
+      "cline_edit_date": 1747415578831,
+      "user_edit_date": 1747415577184
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747415585441,
+      "cline_edit_date": 1747415585441,
+      "user_edit_date": 1747415577184
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747415282890
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415577184
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415891920
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415895252
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415900438
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415905700
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415927217
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415928353
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415929768
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415931668
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415933591
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415936052
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415938168
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415949065
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415953102
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415954903
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747415963459
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416020354
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416021778
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416029524
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416044215
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416050531
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416133350
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416150417
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416282832
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416291153
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416295712
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416338103
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416346242
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416348352
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416350151
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416353259
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416363993
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416365459
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416383882
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416392775
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416404874
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416406343
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416411610
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416413982
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416416946
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416418775
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416420961
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416425174
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416426643
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416429737
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416434535
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416439510
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416442215
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416450480
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416454510
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416457619
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416478551
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416482111
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416495234
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416504510
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416505821
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416508601
+    },
+    {
+      "path": "frontend/src/routes/login/+page.svelte",
+      "record_state": "active",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415598610,
+      "cline_edit_date": 1747415598610,
+      "user_edit_date": 1747416702361
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747415592064,
+      "cline_edit_date": 1747415592064,
+      "user_edit_date": 1747416740743
+    },
+    {
+      "path": "frontend/src/routes/register/+page.svelte",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747416744120,
+      "cline_edit_date": 1747416744120,
+      "user_edit_date": 1747416740743
+    }
+  ],
+  "model_usage": [
+    {
+      "ts": 1747415241713,
+      "model_id": "google/gemini-2.5-flash-preview",
+      "model_provider_id": "openrouter",
+      "mode": "plan"
+    },
+    {
+      "ts": 1747415277909,
+      "model_id": "google/gemini-2.5-flash-preview",
+      "model_provider_id": "openrouter",
+      "mode": "act"
+    }
+  ]
+}

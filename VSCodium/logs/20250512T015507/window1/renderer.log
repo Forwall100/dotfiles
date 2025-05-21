@@ -1,0 +1,5 @@
+2025-05-12 01:55:07.838 [info] Started local extension host with pid 59477.
+2025-05-12 01:55:07.846 [info] ComputeTargetPlatform: linux-x64
+2025-05-12 01:55:07.967 [info] [Continue.continue]: Command `continue.focusContinueInput` already registered by Continue - Codestral, Claude, and more (Continue.continue)
+2025-05-12 01:55:09.042 [warning] Authentication provider continue was not declared in the Extension Manifest.
+2025-05-12 01:55:10.446 [info] [perf] Render performance baseline is 12ms

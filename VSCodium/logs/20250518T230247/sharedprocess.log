@@ -1,0 +1,17 @@
+2025-05-18 23:02:48.439 [info] ComputeTargetPlatform: linux-x64
+2025-05-18 23:02:48.469 [info] Deleted marked for removal extension from disk bradlc.vscode-tailwindcss /home/user/.vscode-oss/extensions/bradlc.vscode-tailwindcss-0.14.16-universal
+2025-05-18 23:02:48.512 [info] Deleted marked for removal extension from disk saoudrizwan.claude-dev /home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.15.3-universal
+2025-05-18 23:02:48.513 [info] Deleted marked for removal extension from disk svelte.svelte-vscode /home/user/.vscode-oss/extensions/svelte.svelte-vscode-109.6.0-universal
+2025-05-18 23:02:50.707 [info] ComputeTargetPlatform: linux-x64
+2025-05-18 23:02:54.150 [info] Getting Manifest... continue.continue
+2025-05-18 23:02:54.150 [info] Getting Manifest... saoudrizwan.claude-dev
+2025-05-18 23:02:56.241 [info] Installing extension: saoudrizwan.claude-dev {"productVersion":{"version":"1.100.03093","date":"2025-05-08T21:43:12.200Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json","path":"/home/user/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-18 23:02:56.414 [info] Installing extension: continue.continue {"productVersion":{"version":"1.100.03093","date":"2025-05-08T21:43:12.200Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json","path":"/home/user/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-05-18 23:04:00.016 [info] Extracted extension to file:///home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.16.1-universal: saoudrizwan.claude-dev
+2025-05-18 23:04:00.023 [info] Renamed to /home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.16.1-universal
+2025-05-18 23:04:00.028 [info] Marked extension as removed saoudrizwan.claude-dev-3.15.5-universal
+2025-05-18 23:04:00.032 [info] Extension installed successfully: saoudrizwan.claude-dev vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-05-18 23:06:09.560 [info] Extracted extension to file:///home/user/.vscode-oss/extensions/continue.continue-1.0.10-linux-x64: continue.continue
+2025-05-18 23:06:09.566 [info] Renamed to /home/user/.vscode-oss/extensions/continue.continue-1.0.10-linux-x64
+2025-05-18 23:06:09.571 [info] Marked extension as removed continue.continue-1.0.9-linux-x64
+2025-05-18 23:06:09.575 [info] Extension installed successfully: continue.continue vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json

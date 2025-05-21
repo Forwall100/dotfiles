@@ -1,0 +1,14 @@
+2025/05/18-23:02:49.606 15a767 Reusing MANIFEST /home/user/.config/VSCodium/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/05/18-23:02:49.606 15a767 Recovering log #42
+2025/05/18-23:02:49.606 15a767 Reusing old log /home/user/.config/VSCodium/WebStorage/1/IndexedDB/indexeddb.leveldb/000042.log 
+2025/05/18-23:02:49.607 15a767 Delete type=2 #40
+2025/05/18-23:02:49.632 15a77b Level-0 table #47: started
+2025/05/18-23:02:49.632 15a77b Level-0 table #47: 1494 bytes OK
+2025/05/18-23:02:49.633 15a77b Delete type=0 #42
+2025/05/18-23:02:49.633 15a767 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 519 : 1
+2025/05/18-23:02:49.633 15a767 Compacting 1@0 + 1@1 files
+2025/05/18-23:02:49.634 15a767 Generated table #48@0: 27 keys, 1246 bytes
+2025/05/18-23:02:49.634 15a767 Compacted 1@0 + 1@1 files => 1246 bytes
+2025/05/18-23:02:49.635 15a767 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/18-23:02:49.635 15a767 Delete type=2 #47
+2025/05/18-23:02:49.635 15a767 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 519 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

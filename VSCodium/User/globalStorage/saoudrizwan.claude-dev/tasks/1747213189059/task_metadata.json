@@ -1,0 +1,142 @@
+{
+  "files_in_context": [
+    {
+      "path": "backend/sqlite_query_service",
+      "record_state": "active",
+      "record_source": "file_mentioned",
+      "cline_read_date": 1747213190467,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "stale",
+      "record_source": "file_mentioned",
+      "cline_read_date": 1747213950737,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747213950737,
+      "cline_edit_date": null,
+      "user_edit_date": 1747213963349
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "stale",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747213965830,
+      "cline_edit_date": 1747213965830,
+      "user_edit_date": 1747213963349
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747213965830,
+      "cline_edit_date": 1747213965830,
+      "user_edit_date": 1747213995123
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747213965830,
+      "cline_edit_date": 1747213965830,
+      "user_edit_date": 1747214004934
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747213965830,
+      "cline_edit_date": 1747213965830,
+      "user_edit_date": 1747214011408
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747213965830,
+      "cline_edit_date": 1747213965830,
+      "user_edit_date": 1747214013890
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "stale",
+      "record_source": "file_mentioned",
+      "cline_read_date": 1747214041459,
+      "cline_edit_date": 1747213965830,
+      "user_edit_date": 1747214013890
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747214041459,
+      "cline_edit_date": 1747213965830,
+      "user_edit_date": 1747214047653
+    },
+    {
+      "path": "backend/sqlite_query_service/test.py",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747214049434,
+      "cline_edit_date": 1747214049434,
+      "user_edit_date": 1747214047653
+    },
+    {
+      "path": "frontend/src/pages/TestPage.vue",
+      "record_state": "stale",
+      "record_source": "file_mentioned",
+      "cline_read_date": 1747214439865,
+      "cline_edit_date": null,
+      "user_edit_date": null
+    },
+    {
+      "path": "frontend/src/pages/TestPage.vue",
+      "record_state": "stale",
+      "record_source": "user_edited",
+      "cline_read_date": 1747214439865,
+      "cline_edit_date": null,
+      "user_edit_date": 1747214448579
+    },
+    {
+      "path": "frontend/src/pages/TestPage.vue",
+      "record_state": "active",
+      "record_source": "cline_edited",
+      "cline_read_date": 1747214477132,
+      "cline_edit_date": 1747214477132,
+      "user_edit_date": 1747214448579
+    }
+  ],
+  "model_usage": [
+    {
+      "ts": 1747213189068,
+      "model_id": "google/gemini-2.5-flash-preview",
+      "model_provider_id": "openrouter",
+      "mode": "plan"
+    },
+    {
+      "ts": 1747213958733,
+      "model_id": "google/gemini-2.5-flash-preview",
+      "model_provider_id": "openrouter",
+      "mode": "act"
+    },
+    {
+      "ts": 1747214112281,
+      "model_id": "google/gemini-2.5-flash-preview",
+      "model_provider_id": "openrouter",
+      "mode": "plan"
+    },
+    {
+      "ts": 1747214439828,
+      "model_id": "google/gemini-2.5-flash-preview",
+      "model_provider_id": "openrouter",
+      "mode": "act"
+    }
+  ]
+}

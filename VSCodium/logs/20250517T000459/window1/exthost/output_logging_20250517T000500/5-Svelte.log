@@ -1,0 +1,123 @@
+Initialize language server at  file:///home/user/Documents/code/resumix
+Initialize new ts service at  /home/user/Documents/code/resumix/frontend/jsconfig.json
+Trying to load configs for /home/user/Documents/code/resumix/frontend
+Loaded config at  /home/user/Documents/code/resumix/frontend/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 0
+Total: 98
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8473
+Total: 8571
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8473
+Total: 8571
+Reloading ts service at  /home/user/Documents/code/resumix/frontend/jsconfig.json  due to config updated
+Trying to load configs for /home/user/Documents/code/resumix/frontend
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8473
+Total: 8571
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8473
+Total: 8571
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8473
+Total: 8571
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8621
+Total: 8719
+Error leaving node  {
+  type: 'InlineComponent',
+  start: 3893,
+  end: 5545,
+  name: 'Button',
+  attributes: [
+    {
+      start: 3901,
+      end: 3929,
+      type: 'EventHandler',
+      name: 'click',
+      expression: [kn],
+      modifiers: []
+    },
+    {
+      type: 'Attribute',
+      start: 3930,
+      end: 3985,
+      name: 'class',
+      value: [Array]
+    }
+  ],
+  children: [
+    {
+      type: 'Text',
+      start: 3986,
+      end: 3999,
+      raw: '\n            ',
+      data: '\n            '
+    },
+    {
+      type: 'Element',
+      start: 3999,
+      end: 5546,
+      name: 'img',
+      attributes: [Array],
+      children: []
+    }
+  ]
+}
+Reloading ts service at  /home/user/Documents/code/resumix/frontend/jsconfig.json  due to config updated
+Trying to load configs for /home/user/Documents/code/resumix/frontend
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8473
+Total: 8571
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8473
+Total: 8571
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8473
+Total: 8571
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8473
+Total: 8571
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8621
+Total: 8719
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8621
+Total: 8719
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8621
+Total: 8719
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 8621
+Total: 8719

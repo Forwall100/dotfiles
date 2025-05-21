@@ -1,0 +1,233 @@
+2025-05-14 15:39:59.646 [info] Name: Black Formatter
+2025-05-14 15:39:59.646 [info] Module: black
+2025-05-14 15:39:59.646 [info] Default formatter is set to null for workspace /home/user/Documents/code/queryquest
+2025-05-14 15:39:59.646 [warning] Black Formatter is NOT set as the default formatter for workspace /home/user/Documents/code/queryquest
+2025-05-14 15:39:59.646 [warning] To set Black Formatter as the default formatter, add the following to your settings.json file:
+2025-05-14 15:39:59.646 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
+2025-05-14 15:39:59.646 [info] Python extension loading
+2025-05-14 15:39:59.646 [info] Waiting for interpreter from python extension.
+2025-05-14 15:39:59.649 [info] No interpreter found from setting black-formatter.interpreter
+2025-05-14 15:39:59.649 [info] Getting interpreter from ms-python.python extension for workspace /home/user/Documents/code/queryquest
+2025-05-14 15:39:59.649 [info] Python extension loaded
+2025-05-14 15:39:59.650 [info] Interpreter from ms-python.python extension for /home/user/Documents/code/queryquest: /bin/python
+2025-05-14 15:39:59.650 [info] Workspace settings for /home/user/Documents/code/queryquest (client side): {
+    "cwd": "/home/user/Documents/code/queryquest",
+    "workspace": "file:///home/user/Documents/code/queryquest",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-05-14 15:39:59.650 [info] No interpreter found from setting black-formatter.interpreter
+2025-05-14 15:39:59.650 [info] Getting interpreter from ms-python.python extension for workspace /home/user/Documents/code/queryquest
+2025-05-14 15:39:59.651 [info] Interpreter from ms-python.python extension for /home/user/Documents/code/queryquest: /bin/python
+2025-05-14 15:39:59.651 [info] Workspace settings for /home/user/Documents/code/queryquest (client side): {
+    "cwd": "/home/user/Documents/code/queryquest",
+    "workspace": "file:///home/user/Documents/code/queryquest",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-05-14 15:39:59.651 [info] Global settings (client side): {
+    "cwd": "/home/user/Documents/code/queryquest",
+    "workspace": "/home/user/Documents/code/queryquest",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-05-14 15:39:59.657 [info] Server run command: /bin/python /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/bundled/tool/lsp_server.py
+2025-05-14 15:39:59.658 [info] Server: Start requested.
+2025-05-14 15:40:00.047 [info] CWD Server: /home/user/Documents/code/queryquest
+2025-05-14 15:40:00.047 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/user/Documents/code/queryquest",
+        "workspace": "file:///home/user/Documents/code/queryquest",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-05-14 15:40:00.047 [info] Global settings received on server:
+{
+    "cwd": "/home/user/Documents/code/queryquest",
+    "workspace": "/home/user/Documents/code/queryquest",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-05-14 15:40:00.047 [info] sys.path used to run Server:
+   /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/bundled/libs
+   /home/user/.vscode-oss/extensions/ms-python.black-formatter-2024.6.0-universal/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /usr/lib/python3.13/site-packages
+2025-05-14 15:40:00.048 [info] /bin/python -m black --version
+2025-05-14 15:40:00.048 [info] CWD formatter: /home/user/Documents/code/queryquest
+2025-05-14 15:40:00.100 [info] Version info for formatter running for /home/user/Documents/code/queryquest:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.13.3
+
+2025-05-14 15:40:00.100 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2025-05-14 15:40:24.340 [info] [Trace - 3:40:24 PM] Sending notification 'textDocument/didClose'.
+2025-05-14 15:42:43.233 [info] [Trace - 3:42:43 PM] Sending notification 'textDocument/didOpen'.
+2025-05-14 15:57:45.024 [info] [Trace - 3:57:45 PM] Sending notification 'textDocument/didOpen'.
+2025-05-14 16:02:42.373 [info] [Trace - 4:02:42 PM] Sending notification 'textDocument/didClose'.
+2025-05-14 16:06:33.537 [info] [Trace - 4:06:33 PM] Sending notification 'textDocument/didOpen'.
+2025-05-14 16:06:55.977 [info] [Trace - 4:06:55 PM] Sending notification 'textDocument/didClose'.
+2025-05-14 16:06:55.985 [info] [Trace - 4:06:55 PM] Sending notification 'textDocument/didOpen'.
+2025-05-14 16:07:59.336 [info] [Trace - 4:07:59 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:00.883 [info] [Trace - 4:08:00 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:01.106 [info] [Trace - 4:08:01 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:01.169 [info] [Trace - 4:08:01 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:01.510 [info] [Trace - 4:08:01 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:01.650 [info] [Trace - 4:08:01 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:01.919 [info] [Trace - 4:08:01 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:02.226 [info] [Trace - 4:08:02 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:03.228 [info] [Trace - 4:08:03 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:04.700 [info] [Trace - 4:08:04 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:04.950 [info] [Trace - 4:08:04 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:05.046 [info] [Trace - 4:08:05 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:05.157 [info] [Trace - 4:08:05 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:05.412 [info] [Trace - 4:08:05 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:05.656 [info] [Trace - 4:08:05 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:05.961 [info] [Trace - 4:08:05 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:06.150 [info] [Trace - 4:08:06 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:06.291 [info] [Trace - 4:08:06 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:06.364 [info] [Trace - 4:08:06 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:06.713 [info] [Trace - 4:08:06 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:07.215 [info] [Trace - 4:08:07 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:11.664 [info] [Trace - 4:08:11 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:13.149 [info] [Trace - 4:08:13 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:08:41.248 [info] [Trace - 4:08:41 PM] Sending notification 'textDocument/didOpen'.
+2025-05-14 16:08:53.788 [info] [Trace - 4:08:53 PM] Sending notification 'textDocument/didClose'.
+2025-05-14 16:09:17.727 [info] [Trace - 4:09:17 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:24.257 [info] [Trace - 4:09:24 PM] Sending notification 'textDocument/didOpen'.
+2025-05-14 16:09:25.214 [info] [Trace - 4:09:25 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:26.116 [info] [Trace - 4:09:26 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:26.123 [info] [Trace - 4:09:26 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:26.549 [info] [Trace - 4:09:26 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:27.082 [info] [Trace - 4:09:27 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:27.838 [info] [Trace - 4:09:27 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:28.839 [info] [Trace - 4:09:28 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:29.237 [info] [Trace - 4:09:29 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:29.991 [info] [Trace - 4:09:29 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:30.087 [info] [Trace - 4:09:30 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:45.561 [info] [Trace - 4:09:45 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:45.999 [info] [Trace - 4:09:45 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:46.107 [info] [Trace - 4:09:46 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:46.184 [info] [Trace - 4:09:46 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:46.845 [info] [Trace - 4:09:46 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:47.642 [info] [Trace - 4:09:47 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:47.728 [info] [Trace - 4:09:47 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:47.777 [info] [Trace - 4:09:47 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:47.934 [info] [Trace - 4:09:47 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:47.936 [info] [Trace - 4:09:47 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:47.981 [info] [Trace - 4:09:47 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:47.985 [info] [Trace - 4:09:47 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:48.069 [info] [Trace - 4:09:48 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:48.113 [info] [Trace - 4:09:48 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:48.462 [info] [Trace - 4:09:48 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:48.600 [info] [Trace - 4:09:48 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:48.732 [info] [Trace - 4:09:48 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:48.971 [info] [Trace - 4:09:48 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:49.180 [info] [Trace - 4:09:49 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:49.642 [info] [Trace - 4:09:49 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:49.732 [info] [Trace - 4:09:49 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:49.955 [info] [Trace - 4:09:49 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:50.150 [info] [Trace - 4:09:50 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:50.239 [info] [Trace - 4:09:50 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:50.304 [info] [Trace - 4:09:50 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:09:51.923 [info] [Trace - 4:09:51 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:00.151 [info] [Trace - 4:10:00 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:00.752 [info] [Trace - 4:10:00 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:01.162 [info] [Trace - 4:10:01 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:01.292 [info] [Trace - 4:10:01 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:01.672 [info] [Trace - 4:10:01 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:01.987 [info] [Trace - 4:10:01 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:02.243 [info] [Trace - 4:10:02 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:02.405 [info] [Trace - 4:10:02 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:02.998 [info] [Trace - 4:10:02 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:03.255 [info] [Trace - 4:10:03 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:03.480 [info] [Trace - 4:10:03 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:03.591 [info] [Trace - 4:10:03 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:03.644 [info] [Trace - 4:10:03 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:03.982 [info] [Trace - 4:10:03 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:04.560 [info] [Trace - 4:10:04 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:05.009 [info] [Trace - 4:10:05 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:07.109 [info] [Trace - 4:10:07 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:18.439 [info] [Trace - 4:10:18 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:19.441 [info] [Trace - 4:10:19 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:19.562 [info] [Trace - 4:10:19 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:21.196 [info] [Trace - 4:10:21 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:21.472 [info] [Trace - 4:10:21 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:23.516 [info] [Trace - 4:10:23 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:10:40.802 [info] [Trace - 4:10:40 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:11:22.810 [info] [Trace - 4:11:22 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:11:23.812 [info] [Trace - 4:11:23 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:11:44.025 [info] [Trace - 4:11:44 PM] Sending notification 'textDocument/didOpen'.
+2025-05-14 16:11:48.709 [info] [Trace - 4:11:48 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:12:42.196 [info] [Trace - 4:12:42 PM] Sending notification 'textDocument/didClose'.
+2025-05-14 16:12:42.215 [info] [Trace - 4:12:42 PM] Sending notification 'textDocument/didClose'.
+2025-05-14 16:12:42.226 [info] [Trace - 4:12:42 PM] Sending notification 'textDocument/didOpen'.
+2025-05-14 16:12:42.271 [info] [Trace - 4:12:42 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:05.870 [info] [Trace - 4:13:05 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:06.124 [info] [Trace - 4:13:06 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:06.402 [info] [Trace - 4:13:06 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:06.524 [info] [Trace - 4:13:06 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:07.037 [info] [Trace - 4:13:07 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:07.299 [info] [Trace - 4:13:07 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:07.471 [info] [Trace - 4:13:07 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:07.675 [info] [Trace - 4:13:07 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:08.219 [info] [Trace - 4:13:08 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:08.625 [info] [Trace - 4:13:08 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:12.648 [info] [Trace - 4:13:12 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:13.144 [info] [Trace - 4:13:13 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:13.232 [info] [Trace - 4:13:13 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:13.314 [info] [Trace - 4:13:13 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:13.511 [info] [Trace - 4:13:13 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:13.730 [info] [Trace - 4:13:13 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:14.046 [info] [Trace - 4:13:14 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:23.855 [info] [Trace - 4:13:23 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:26.203 [info] [Trace - 4:13:26 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:26.397 [info] [Trace - 4:13:26 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:26.786 [info] [Trace - 4:13:26 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:27.104 [info] [Trace - 4:13:27 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:27.369 [info] [Trace - 4:13:27 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:27.655 [info] [Trace - 4:13:27 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:28.426 [info] [Trace - 4:13:28 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:28.729 [info] [Trace - 4:13:28 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:29.031 [info] [Trace - 4:13:29 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:29.258 [info] [Trace - 4:13:29 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:29.623 [info] [Trace - 4:13:29 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:29.939 [info] [Trace - 4:13:29 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:30.328 [info] [Trace - 4:13:30 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:32.517 [info] [Trace - 4:13:32 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:13:32.810 [info] [Trace - 4:13:32 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:14:06.317 [info] [Trace - 4:14:06 PM] Sending notification 'textDocument/didClose'.
+2025-05-14 16:14:06.381 [info] [Trace - 4:14:06 PM] Sending notification 'textDocument/didOpen'.
+2025-05-14 16:14:06.428 [info] [Trace - 4:14:06 PM] Sending notification 'textDocument/didChange'.
+2025-05-14 16:14:06.575 [info] [Trace - 4:14:06 PM] Sending notification 'textDocument/didChange'.

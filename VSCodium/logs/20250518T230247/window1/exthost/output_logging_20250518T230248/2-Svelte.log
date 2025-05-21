@@ -1,0 +1,9 @@
+Initialize language server at  file:///home/user/Documents/code/resumix
+Initialize new ts service at  /home/user/Documents/code/resumix/frontend/jsconfig.json
+Trying to load configs for /home/user/Documents/code/resumix/frontend
+Loaded config at  /home/user/Documents/code/resumix/frontend/svelte.config.js
+SnapshotManager File Statistics:
+Project files: 98
+Svelte files: 68
+From node_modules: 0
+Total: 98

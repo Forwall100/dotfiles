@@ -1,0 +1,7 @@
+2025-05-12 10:31:09.672 [info] Started local extension host with pid 124685.
+2025-05-12 10:31:09.682 [info] ComputeTargetPlatform: linux-x64
+2025-05-12 10:31:09.862 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-12 10:31:12.296 [info] [perf] Render performance baseline is 11ms
+2025-05-12 10:31:12.774 [info] [Continue.continue]: Command `continue.focusContinueInput` already registered by Continue - Codestral, Claude, and more (Continue.continue)
+2025-05-12 10:31:13.828 [warning] Authentication provider continue was not declared in the Extension Manifest.
+2025-05-12 11:13:14.296 [warning] [backup tracker] suspended, ignoring unregister event git:/home/user/Documents/code/resumix/frontend/src/routes/%2Bpage.svelte.git?%7B%22path%22%3A%22%2Fhome%2Fuser%2FDocuments%2Fcode%2Fresumix%2Ffrontend%2Fsrc%2Froutes%2F%2Bpage.svelte%22%2C%22ref%22%3A%22%22%7D 

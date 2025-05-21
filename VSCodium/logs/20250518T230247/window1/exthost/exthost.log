@@ -1,0 +1,32 @@
+2025-05-18 23:02:48.242 [info] Extension host with pid 1419207 started
+2025-05-18 23:02:48.242 [info] Skipping acquiring lock for /home/user/.config/VSCodium/User/workspaceStorage/37a78256e8d94ef7ebafbd9684081717.
+2025-05-18 23:02:48.320 [info] ExtensionService#_doActivateExtension saoudrizwan.claude-dev, startup: false, activationEvent: 'onView:claude-dev.SidebarProvider'
+2025-05-18 23:02:48.836 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-05-18 23:02:48.861 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-18 23:02:48.873 [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:svelte'
+2025-05-18 23:02:48.960 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-18 23:02:48.965 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-18 23:02:48.993 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-18 23:02:49.051 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-18 23:02:49.052 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: true, activationEvent: '*'
+2025-05-18 23:02:49.074 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.venv'
+2025-05-18 23:02:49.199 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-18 23:02:49.222 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-18 23:02:49.294 [info] Eager extensions activated
+2025-05-18 23:02:49.345 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-18 23:02:49.346 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-18 23:02:49.357 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-05-18 23:02:49.376 [info] ExtensionService#_doActivateExtension Continue.continue, startup: false, activationEvent: 'onStartupFinished'
+2025-05-18 23:02:49.996 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-18 23:02:55.082 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-05-18 23:03:10.054 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2025-05-19 00:19:26.487 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-19 00:19:26.498 [error] Error: Channel has been closed
+	at s (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3260)
+	at Object.appendLine (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:3399)
+	at t.log (/home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.15.5-universal/dist/extension.js:911:35803)
+	at Object.EAu (/home/user/.vscode-oss/extensions/saoudrizwan.claude-dev-3.15.5-universal/dist/extension.js:3038:6739)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async Promise.all (index 16)
+	at async PQ._deactivateAll (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:12036)
+2025-05-19 00:19:26.500 [info] Extension host with pid 1419207 exiting with code 0

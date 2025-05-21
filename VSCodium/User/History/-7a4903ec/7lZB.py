@@ -1,0 +1,3 @@
+from endpoints.create_er_diagram import generate_er_diagram_endpoint
+
+generate_er_diagram_endpoint("p38yma98zod5uc1")
